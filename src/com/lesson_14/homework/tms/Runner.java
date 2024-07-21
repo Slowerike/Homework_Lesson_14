@@ -1,4 +1,4 @@
-package tms.homework_14.com;
+package com.lesson_14.homework.tms;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
